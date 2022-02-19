@@ -1,0 +1,18 @@
+#title{
+    text-align: center;
+}
+#img-caption{
+    width: 980px;
+    float: right;
+    margin: auto;
+}
+
+#image{
+    border-radius: 20px;
+    border: 2px solid black;
+    
+}
+body{
+    background-color: black;
+    color:aliceblue
+}
